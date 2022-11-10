@@ -12,7 +12,7 @@ public class Main {
         for (int i = 0; i <= 17; i += 2) {
             System.out.println(i);
         }
-        // Задание 3
+        // Задание 4
         for (int i = 10; i >= -10; i--) {
             System.out.println(i);
         }
